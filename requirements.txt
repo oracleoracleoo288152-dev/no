@@ -1,0 +1,5 @@
+pymongo
+ultralytics
+opencv-python-headless
+streamlit
+cloudinary
