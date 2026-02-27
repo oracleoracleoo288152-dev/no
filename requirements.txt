@@ -1,5 +1,9 @@
-pymongo
+streamlit
 ultralytics
 opencv-python-headless
-streamlit
+pymongo
 cloudinary
+torch
+torchvision
+pillow
+numpy
